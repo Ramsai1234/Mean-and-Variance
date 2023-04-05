@@ -51,10 +51,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-~~~
-Developed by: P.Ramsai
-Reg.no:212221240041
-~~~
 import numpy as np
 A=[int(i) for i in input().split()]
 B=len(A); M=max(A) 
@@ -84,7 +80,8 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
 # Output : 
-![image](https://user-images.githubusercontent.com/94269989/229994799-f06ed65c-6def-4893-bea9-4e0c49e5c255.png)
+![image](https://user-images.githubusercontent.com/94269989/229995797-920fa990-ad79-46a7-a9b3-ceebb739a8c1.png)
+
 
 # Result:
 Thus the mean and variance of arrival of objects from the feeder using probability distribution is found successfully.
